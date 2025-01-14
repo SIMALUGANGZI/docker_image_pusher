@@ -1,1 +1,1 @@
-db:1.4.3
+elasticsearch:8.10.2
